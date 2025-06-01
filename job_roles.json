@@ -1,0 +1,8 @@
+{
+  "python": ["Data Analyst", "Backend Developer", "Automation Engineer"],
+  "machine learning": ["Machine Learning Engineer", "Data Scientist", "AI Researcher"],
+  "html": ["Frontend Developer", "Web Content Manager", "Email Developer"],
+  "css": ["UI Designer", "Web Designer", "Frontend Engineer"],
+  "react": ["React Developer", "Frontend Software Engineer", "Full Stack Developer"],
+  "seo": ["SEO Specialist", "Digital Marketing Analyst", "Content Strategist"]
+}
